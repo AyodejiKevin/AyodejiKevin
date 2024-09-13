@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AyodejiKevin
+- 👀 I’m interested in learning how to harness data insights for critical decision making 
+- 🌱 I’m currently learning SQL, Power BI, and Advanced Microsoft Excel 
+- 💞️ I’m looking to collaborate on Healthcare Analytics Project 
+- 📫 How to reach me - metricsnprose.com // https://www.linkedin.com/in/ayodeji-oguntebi/
